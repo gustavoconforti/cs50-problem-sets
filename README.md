@@ -1,5 +1,7 @@
 # CS50x 2023 Problem Sets
 Personal solutions to the problems available at https://cs50.harvard.edu/x/2023/psets/.
 
-![image](https://github.com/gustavoconforti/cs50-problem-sets/assets/56703129/62b8ec19-8d58-4194-a2b8-012d20b4108c)
+<p align="center">
+  <img src="https://github.com/gustavoconforti/wazuh-honeypot/assets/56703129/d30da931-de3a-44dd-93d5-cfa2c63f6331" style="width:50%;">
+</p>
 
